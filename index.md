@@ -18,7 +18,7 @@ This is my personal growth journal hosted via GitHub Pages.
 - **[Stage 2 Report](stage2/progress.md)**  
   _Tracking my second-year PhD report progress and outline development._
 
-- **[SiPS Conference Paper](sips_paper/index.md)**  
+- **[SiPS Conference Paper](sips_paper/index)**  
   _Writing and preparation for the SiPS conference submission._
 
 - **[Multistatic MBVA FMCW Radar](multistatic/index.md)**  
