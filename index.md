@@ -1,4 +1,4 @@
-x---
+---
 layout: default
 title: Dingli.devlog
 ---
