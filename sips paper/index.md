@@ -40,4 +40,5 @@ This is the central workspace for writing, organizing, and tracking my IEEE conf
 
 > *“A good short paper says one thing well. Don’t overload. Stay sharp.”*
 
-[← Back to Main Page](/index.md)
+[← Back to Main Page](/)
+
