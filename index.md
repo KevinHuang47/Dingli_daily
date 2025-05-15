@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Dingli's Daily Logs
+title: Dingli.devlog
 ---
 
-# 👋 Welcome to Dingli's Daily Logs
+# 👋 Welcome to Dingli.devlog
 
 This is my personal growth journal hosted via GitHub Pages.
 
