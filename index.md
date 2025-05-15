@@ -18,14 +18,14 @@ More coming soon...
 
 ## 🧩 Current Projects
 
-> ### 📘 [Stage 2 Report](stage2/progress.md)  
-> Tracking my second-year PhD report progress and outline development.
+- **[Stage 2 Report](stage2/progress.md)**  
+  _Tracking my second-year PhD report progress and outline development._
 
-> ### 📙 [SiPS Conference Paper](sips_paper/progress.md)  
-> Writing and preparation for the SiPS conference submission.
+- **[SiPS Conference Paper](sips_paper/progress.md)**  
+  _Writing and preparation for the SiPS conference submission._
 
-> ### 📗 [Multistatic MBVA Radar](multistatic/theory.md)  
-> Notes and theoretical development for multistatic MBVA FMCW system.
+- **[Multistatic MBVA FMCW Radar](multistatic/theory.md)**  
+  _Notes and theoretical development for multistatic MBVA FMCW system._
 
 ---
 
