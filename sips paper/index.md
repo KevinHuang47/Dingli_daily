@@ -40,5 +40,5 @@ This is the central workspace for writing, organizing, and tracking my IEEE conf
 
 > *“A good short paper says one thing well. Don’t overload. Stay sharp.”*
 
-[← Back to Main Page](/)
+[← Back to Main Page](/Dingli_daily/)
 
