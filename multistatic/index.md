@@ -80,5 +80,5 @@ This page tracks the development and submission of my journal paper on multistat
 
 ---
 
-[← Back to Main Page](/)
+[← Back to Main Page](/Dingli_daily/)
 
