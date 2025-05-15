@@ -9,10 +9,7 @@ This is my personal growth journal hosted via GitHub Pages.
 
 ## 📅 Daily Logs
 
-- [2025-05-15 ](2025/05/2025-05-15.md)
-- [2025-05-16 ](2025/05/2025-05-16.md)
-
-More coming soon...
+👉 [View Daily Log Directory](daily/index.md)
 
 ---
 
