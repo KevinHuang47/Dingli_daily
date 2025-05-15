@@ -46,3 +46,4 @@ This page documents the final preparation and follow-up tasks for my Stage 2 PhD
 
 This phase marks a significant checkpoint in my research journey. The real value lies in how I consolidate this experience and bring it forward to the thesis and future papers.
 
+[← Back to Main Page](../index.md)
