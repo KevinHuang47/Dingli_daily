@@ -14,6 +14,21 @@ This is my personal growth journal hosted via GitHub Pages.
 
 More coming soon...
 
+---
+
+## 🧩 Current Projects
+
+### 1️⃣ [Stage 2 Report](stage2/progress.md)
+> Tracking my second-year PhD report progress and outline development.
+
+### 2️⃣ [SiPS Conference Paper](sips_paper/progress.md)
+> Writing and preparation for the SiPS conference submission.
+
+### 3️⃣ [Multistatic MVBA FMCW Radar](multistatic/theory.md)
+> Notes and theoretical development for multistatic MBVA FMCW system.
+
+---
+
 ## ✨ Why I do this
 
 Tracking daily work and progress helps me stay accountable, build habits, and reflect over time.
