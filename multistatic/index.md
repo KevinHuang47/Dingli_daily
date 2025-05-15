@@ -71,7 +71,7 @@ This page tracks the development and submission of my journal paper on multistat
 | August | Revisions + submission prep |
 | September | Target submission window ✅
 
----
+--- 
 
 ## 🧠 Notes
 
