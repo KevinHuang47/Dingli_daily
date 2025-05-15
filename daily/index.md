@@ -24,7 +24,8 @@ _(More to be added...)_
 
 I use these logs to track daily discipline, study efficiency, and personal reflections.
 
-[← Back to Main Page](../)
+[← Back to Main Page]({{ site.baseurl }}/)
+
 
 
 
