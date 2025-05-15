@@ -80,4 +80,5 @@ This page tracks the development and submission of my journal paper on multistat
 
 ---
 
-[← Back to Main Page](/index.md)
+[← Back to Main Page](/)
+
