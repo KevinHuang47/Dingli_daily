@@ -22,7 +22,7 @@ This page lists my daily reflections and progress logs.
 - [2025-05-23](2025-05-23.md)
 - [2025-05-24](2025-05-24.md)
 - [2025-05-25](2025-05-25.md)
-_(More to be added...)_
+_ (More to be added...)_
 
 ---
 
