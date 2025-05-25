@@ -30,7 +30,7 @@ This page lists my daily reflections and progress logs.
 - [2025-05-31](2025-05-31.md)
 
 
-  👉 [View JUNE Daily Log Directory](daily/june/index.md)
+  👉 [View JUNE Daily Log Directory](daily/June/index.md)
 
 
 _(More to be added...)_
