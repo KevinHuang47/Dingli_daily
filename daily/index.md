@@ -31,6 +31,7 @@ This page lists my daily reflections and progress logs.
 
 
   👉 [View JUNE Daily Log Directory](June/index.md)
+  
   👉 [View July Daily Log Directory](July/index.md)
 
 _(More to be added...)_
