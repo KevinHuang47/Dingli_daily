@@ -16,67 +16,31 @@ This page tracks the development and submission of my journal paper on multistat
 | Phase | Status | Notes |
 |-------|--------|-------|
 | Project scoping | ✅ Completed | Initial focus defined |
-| Literature review | 🟡  Completed | Key references summarized offline |
-| Mathematical modeling | 🟡 In Progress | Partially validated; details offline |
-| Simulation & verification | 🔴 Not Started | Planned via Python + MATLAB |
-| Paper drafting | 🔴 Not Started | Structure defined, no text yet |
-| Figures & plots | 🔴 Not Started | Placeholder created |
-| Internal full draft | 🔴 Not Started | Expected mid-July |
-| Advisor feedback | 🔴 Not Started | TBD after full draft |
-| Journal formatting & polish | 🔴 Not Started | IEEE template to be used |
-| Submission | 🔴 Not Started | Target: late Q3 2025 |
+|2020.7.1|本周目标：K=4目标实验结果成果实现||
+|||
+|||
+|||
+|||
+|||
 
----
 
-## 📋 Task Checklist by Section
 
-### 🧠 Concept & Scope
-
-- [x] Clarify core contribution (MBVA in multistatic configuration)
-- [x] Define minimum system setup (multiple Tx + 1 Rx)
-- [ ] Compare monostatic/bistatic/multistatic advantages
-- [ ] Write short section on limitations and practical constraints
-
----
-
-### 📝 Paper Structure & Drafting
-
-| Section | Status | Notes |
-|---------|--------|-------|
-| Abstract | 🔴 Not Started | To be written last |
-| Introduction | 🔴 Not Started | Include context + challenges |
-| Related Work | 🟡 In Progress | Already annotated offline |
-| System Model | 🔴 Not Started | Refine signal path + geometry |
-| Processing Method | 🔴 Not Started | MBVA signal reconstruction approach |
-| Simulation & Results | 🔴 Not Started | Requires data & visualizations |
-| Conclusion | 🔴 Not Started | Will summarize insights + future directions |
-
----
-
-### 📎 Technical Preparation
-
-- [ ] Create Overleaf / LaTeX journal template project
-- [ ] Prepare BibTeX references
-- [ ] Standardize figure format (vector + caption style)
-- [ ] Consider backup submission journals (e.g., T-SP, T-AES)
-
----
 
 ## 📅 Timeline Snapshot
 
 | Week | Milestone |
 |------|-----------|
-| June 的第二周| 开始进行具体理论的思考 |
-| July | Complete first full draft |
-| August | Revisions + submission prep |
-| September | Target submission window ✅
+|完成多目标的定位|预计时间：1周|实际时间：|
+|完成sparsity representation|预计时间：2周|实际时间：|
+|尝试加入一个新的基站|预计时间：1周|实际时间：|
+||||
+||||
 
 --- 
 
 ## 🧠 Notes
 
-- Working derivations and test scripts are not included here
-- All offline work is tracked in local Overleaf and private notebooks
+
 
 ---
 
