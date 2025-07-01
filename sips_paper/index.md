@@ -23,19 +23,15 @@ This is the central workspace for writing, organizing, and tracking my IEEE conf
 |------|--------|-------|
 | Idea confirmed | ✅ | MBVA bistatic radar |
 | Simulation setup | ✅ | In progress | Data partial |
-| Writing started | 🟡 | Method section prioritized |
-| Figures | ✅ |finish | Need to draw system sketch |
-| Advisor hand-in | ⏳ Scheduled | May 27 |
-| Submission | ⏳ Scheduled | Early June |
+| Writing started | ✅ | 6.9才开始飞速写，6.10finish上交 |
+| Submission | ✅ Scheduled | 6.25日彻底上交 |
 
 ---
 
 ## ✍️ Notes to Self
 
-- Keep the story tight: 1 main innovation + clear problem framing
-- Avoid full duplication of Stage 2 report — reuse selectively
-- Prioritize figure quality and citation consistency early
-
+- 这篇文章其实在今年上半年就可以写完，甚至我说的极短一些，在12月份就能开始写，2月份就能写完，但是我一直到6月份才写完，中间时机延长了4个月。
+- 提醒我，任何事情都要早开始，拖到最后还是自己该完成的，不要拖
 ---
 
 > *“A good short paper says one thing well. Don’t overload. Stay sharp.”*
