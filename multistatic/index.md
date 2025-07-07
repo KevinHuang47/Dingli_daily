@@ -16,8 +16,8 @@ This page tracks the development and submission of my journal paper on multistat
 | Phase | Status | Notes |
 |-------|--------|-------|
 | Project scoping | ✅ Completed | Initial focus defined |
-|2020.7.1|本周目标：K=4目标实验结果成果实现；看看是否能增加自由度；||
-|||
+|2025.7.1|本周目标：K=4目标实验结果成果实现；看看是否能增加自由度；|解决K=4|
+|2025.7.7|找到自由度问题，开始做稀疏表示|
 |||
 |||
 |||
